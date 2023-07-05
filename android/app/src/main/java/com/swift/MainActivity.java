@@ -1,4 +1,4 @@
-package com.swift;
+package com.pistiscreatives.swift;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

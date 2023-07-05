@@ -1,4 +1,4 @@
-package com.swift;
+package com.pistiscreatives.swift;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

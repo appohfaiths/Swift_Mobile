@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "516497242371",
+    "project_id": "swift-11ed1",
+    "storage_bucket": "swift-11ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516497242371:android:e9ec17d72ea2694a4b1136",
+        "android_client_info": {
+          "package_name": "com.pistiscreatives.swift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516497242371-s4kdlpo59qvhkqr99t1dsh20m7ui84no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pistiscreatives.swift",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "516497242371-8bpfuc77tner0mluh095fseoivmfs3si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01SQOmBbkH5uR4KPjb-l13udGb_Yn71Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516497242371-8bpfuc77tner0mluh095fseoivmfs3si.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516497242371-p3dgfs44bs9a2eqhcsc1rg0efo6l840p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pistis-creatives.Swift"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
