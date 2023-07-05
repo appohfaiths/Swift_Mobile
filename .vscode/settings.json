@@ -1,4 +1,5 @@
 {
   "prettier.prettierPath": "./node_modules/prettier",
-  "prettier.configPath": "./.prettierrc.js"
+  "prettier.configPath": "./.prettierrc.js",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
