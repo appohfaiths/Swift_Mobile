@@ -74,7 +74,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.pistiscreatives.swift;"
+    namespace "com.pistiscreatives.swift"
     defaultConfig {
         applicationId "com.pistiscreatives.swift"
         minSdkVersion rootProject.ext.minSdkVersion
@@ -110,17 +110,17 @@ dependencies {
 
     // firebase dependencies
     implementation platform('com.google.firebase:firebase-bom:32.1.1')
-    implementation 'com.google.firebase:firebase-analytics'
+    // implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-auth'
-    implementation 'com.google.firebase:firebase-appdistribution'
-    implementation 'com.google.firebase:firebase-firestore'
-    implementation 'com.google.firebase:firebase-messaging'
-    implementation 'com.google.firebase:firebase-crashlytics'
-    implementation 'com.google.firebase:firebase-dynamic-links'
-    implementation 'com.google.firebase:firebase-inappmessaging'
-    implementation 'com.google.firebase:firebase-inappmessaging-display'
-    implementation 'com.google.firebase:firebase-perf'
-    implementation 'com.google.firebase:firebase-config'
+    // implementation 'com.google.firebase:firebase-appdistribution'
+    // implementation 'com.google.firebase:firebase-firestore'
+    // implementation 'com.google.firebase:firebase-messaging'
+    // implementation 'com.google.firebase:firebase-crashlytics'
+    // implementation 'com.google.firebase:firebase-dynamic-links'
+    // implementation 'com.google.firebase:firebase-inappmessaging'
+    // implementation 'com.google.firebase:firebase-inappmessaging-display'
+    // implementation 'com.google.firebase:firebase-perf'
+    // implementation 'com.google.firebase:firebase-config'
 
     debugImplementation("com.facebook.flipper:flipper:${FLIPPER_VERSION}")
     debugImplementation("com.facebook.flipper:flipper-network-plugin:${FLIPPER_VERSION}") {
