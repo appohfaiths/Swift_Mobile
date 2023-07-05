@@ -1,6 +1,5 @@
 #import "AppDelegate.h"
 #import <Firebase.h>
-#import "UIKit/UIKit.h"
 
 
 #import <React/RCTBundleURLProvider.h>
@@ -15,7 +14,7 @@
   // They will be passed down to the ViewController used by React Native.
   self.initialProps = @{};
 
-  return YES;
+  // return YES;
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
 
