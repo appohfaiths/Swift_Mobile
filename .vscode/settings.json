@@ -1,5 +1,6 @@
 {
   "prettier.prettierPath": "./node_modules/prettier",
   "prettier.configPath": "./.prettierrc.js",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "disabled"
 }

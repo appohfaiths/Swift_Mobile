@@ -11,30 +11,9 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		38F05E7E2A54DE32003B1A92 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E7D2A54DE32003B1A92 /* FirebaseAnalytics */; };
-		38F05E802A54DE32003B1A92 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E7F2A54DE32003B1A92 /* FirebaseAnalyticsOnDeviceConversion */; };
-		38F05E822A54DE32003B1A92 /* FirebaseAnalyticsSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E812A54DE32003B1A92 /* FirebaseAnalyticsSwift */; };
-		38F05E842A54DE32003B1A92 /* FirebaseAppCheck in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E832A54DE32003B1A92 /* FirebaseAppCheck */; };
-		38F05E862A54DE32003B1A92 /* FirebaseAppDistribution-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E852A54DE32003B1A92 /* FirebaseAppDistribution-Beta */; };
-		38F05E882A54DE32003B1A92 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E872A54DE32003B1A92 /* FirebaseAuth */; };
-		38F05E8A2A54DE32003B1A92 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E892A54DE32003B1A92 /* FirebaseCrashlytics */; };
-		38F05E8C2A54DE32003B1A92 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E8B2A54DE32003B1A92 /* FirebaseDatabase */; };
-		38F05E8E2A54DE32003B1A92 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E8D2A54DE32003B1A92 /* FirebaseDatabaseSwift */; };
-		38F05E902A54DE32003B1A92 /* FirebaseDynamicLinks in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E8F2A54DE32003B1A92 /* FirebaseDynamicLinks */; };
-		38F05E922A54DE32003B1A92 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E912A54DE32003B1A92 /* FirebaseFirestore */; };
-		38F05E942A54DE32003B1A92 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E932A54DE32003B1A92 /* FirebaseFirestoreSwift */; };
-		38F05E962A54DE32003B1A92 /* FirebaseFunctions in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E952A54DE32003B1A92 /* FirebaseFunctions */; };
-		38F05E982A54DE32003B1A92 /* FirebaseInAppMessaging-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E972A54DE32003B1A92 /* FirebaseInAppMessaging-Beta */; };
-		38F05E9A2A54DE32003B1A92 /* FirebaseInAppMessagingSwift-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E992A54DE32003B1A92 /* FirebaseInAppMessagingSwift-Beta */; };
-		38F05E9C2A54DE32003B1A92 /* FirebaseInstallations in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E9B2A54DE32003B1A92 /* FirebaseInstallations */; };
-		38F05E9E2A54DE32003B1A92 /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E9D2A54DE32003B1A92 /* FirebaseMessaging */; };
-		38F05EA02A54DE32003B1A92 /* FirebasePerformance in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05E9F2A54DE32003B1A92 /* FirebasePerformance */; };
-		38F05EA22A54DE32003B1A92 /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05EA12A54DE32003B1A92 /* FirebaseRemoteConfig */; };
-		38F05EA42A54DE32003B1A92 /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05EA32A54DE32003B1A92 /* FirebaseRemoteConfigSwift */; };
-		38F05EA62A54DE32003B1A92 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 38F05EA52A54DE32003B1A92 /* FirebaseStorage */; };
 		38F05EAA2A5506CF003B1A92 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 38F05EA92A5506CF003B1A92 /* GoogleService-Info.plist */; };
-		44A11E12EB62E854D0126C9D /* libPods-Swift-SwiftTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C3980D674D72A4D3C9932CBE /* libPods-Swift-SwiftTests.a */; };
-		4D28D7CF0095D1EB852A0AD3 /* libPods-Swift.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9ED64289CD7CD47E007B9DB1 /* libPods-Swift.a */; };
+		3C37DA961CC9521ACD86FC25 /* libPods-Swift.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D94FD5C81E0564578D20F0A /* libPods-Swift.a */; };
+		452F065F30F146CD5E28A6D1 /* libPods-Swift-SwiftTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 36341AD532F5F1F29117CC4B /* libPods-Swift-SwiftTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -58,15 +37,15 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Swift/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Swift/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Swift/main.m; sourceTree = "<group>"; };
+		36341AD532F5F1F29117CC4B /* libPods-Swift-SwiftTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Swift-SwiftTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		38F05EA92A5506CF003B1A92 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		6695DACCB609258078EAC5B1 /* Pods-Swift-SwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-SwiftTests.release.xcconfig"; path = "Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests.release.xcconfig"; sourceTree = "<group>"; };
+		7D3991CE95EB962ABF9DBD29 /* Pods-Swift-SwiftTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-SwiftTests.debug.xcconfig"; path = "Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Swift/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9ED64289CD7CD47E007B9DB1 /* libPods-Swift.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Swift.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C3980D674D72A4D3C9932CBE /* libPods-Swift-SwiftTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Swift-SwiftTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C9E441AD1FE7E5CC12AAE4E4 /* Pods-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift.debug.xcconfig"; path = "Target Support Files/Pods-Swift/Pods-Swift.debug.xcconfig"; sourceTree = "<group>"; };
-		E097503C98F60E6B8B14D6FD /* Pods-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift.release.xcconfig"; path = "Target Support Files/Pods-Swift/Pods-Swift.release.xcconfig"; sourceTree = "<group>"; };
+		8D94FD5C81E0564578D20F0A /* libPods-Swift.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Swift.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6835D517879AA80CD5B348D /* Pods-Swift-SwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-SwiftTests.release.xcconfig"; path = "Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests.release.xcconfig"; sourceTree = "<group>"; };
+		BB10DC67258001800BCD9584 /* Pods-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift.release.xcconfig"; path = "Target Support Files/Pods-Swift/Pods-Swift.release.xcconfig"; sourceTree = "<group>"; };
+		C5F58FA7DB7A0F5A63B1A5E3 /* Pods-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift.debug.xcconfig"; path = "Target Support Files/Pods-Swift/Pods-Swift.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F09BF57920B1817C4567B05A /* Pods-Swift-SwiftTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift-SwiftTests.debug.xcconfig"; path = "Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				44A11E12EB62E854D0126C9D /* libPods-Swift-SwiftTests.a in Frameworks */,
+				452F065F30F146CD5E28A6D1 /* libPods-Swift-SwiftTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,28 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38F05E9E2A54DE32003B1A92 /* FirebaseMessaging in Frameworks */,
-				38F05E8E2A54DE32003B1A92 /* FirebaseDatabaseSwift in Frameworks */,
-				38F05E962A54DE32003B1A92 /* FirebaseFunctions in Frameworks */,
-				38F05EA42A54DE32003B1A92 /* FirebaseRemoteConfigSwift in Frameworks */,
-				38F05E902A54DE32003B1A92 /* FirebaseDynamicLinks in Frameworks */,
-				38F05E822A54DE32003B1A92 /* FirebaseAnalyticsSwift in Frameworks */,
-				38F05E7E2A54DE32003B1A92 /* FirebaseAnalytics in Frameworks */,
-				38F05E802A54DE32003B1A92 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */,
-				38F05E922A54DE32003B1A92 /* FirebaseFirestore in Frameworks */,
-				38F05E842A54DE32003B1A92 /* FirebaseAppCheck in Frameworks */,
-				38F05E9C2A54DE32003B1A92 /* FirebaseInstallations in Frameworks */,
-				38F05E942A54DE32003B1A92 /* FirebaseFirestoreSwift in Frameworks */,
-				38F05E9A2A54DE32003B1A92 /* FirebaseInAppMessagingSwift-Beta in Frameworks */,
-				38F05E8A2A54DE32003B1A92 /* FirebaseCrashlytics in Frameworks */,
-				38F05EA02A54DE32003B1A92 /* FirebasePerformance in Frameworks */,
-				38F05E8C2A54DE32003B1A92 /* FirebaseDatabase in Frameworks */,
-				38F05E882A54DE32003B1A92 /* FirebaseAuth in Frameworks */,
-				38F05E862A54DE32003B1A92 /* FirebaseAppDistribution-Beta in Frameworks */,
-				38F05EA62A54DE32003B1A92 /* FirebaseStorage in Frameworks */,
-				38F05E982A54DE32003B1A92 /* FirebaseInAppMessaging-Beta in Frameworks */,
-				38F05EA22A54DE32003B1A92 /* FirebaseRemoteConfig in Frameworks */,
-				4D28D7CF0095D1EB852A0AD3 /* libPods-Swift.a in Frameworks */,
+				3C37DA961CC9521ACD86FC25 /* libPods-Swift.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,8 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				9ED64289CD7CD47E007B9DB1 /* libPods-Swift.a */,
-				C3980D674D72A4D3C9932CBE /* libPods-Swift-SwiftTests.a */,
+				8D94FD5C81E0564578D20F0A /* libPods-Swift.a */,
+				36341AD532F5F1F29117CC4B /* libPods-Swift-SwiftTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -185,10 +143,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C9E441AD1FE7E5CC12AAE4E4 /* Pods-Swift.debug.xcconfig */,
-				E097503C98F60E6B8B14D6FD /* Pods-Swift.release.xcconfig */,
-				F09BF57920B1817C4567B05A /* Pods-Swift-SwiftTests.debug.xcconfig */,
-				6695DACCB609258078EAC5B1 /* Pods-Swift-SwiftTests.release.xcconfig */,
+				C5F58FA7DB7A0F5A63B1A5E3 /* Pods-Swift.debug.xcconfig */,
+				BB10DC67258001800BCD9584 /* Pods-Swift.release.xcconfig */,
+				7D3991CE95EB962ABF9DBD29 /* Pods-Swift-SwiftTests.debug.xcconfig */,
+				A6835D517879AA80CD5B348D /* Pods-Swift-SwiftTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -200,12 +158,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SwiftTests" */;
 			buildPhases = (
-				6D6E1097E004DDE42056DF0E /* [CP] Check Pods Manifest.lock */,
+				06BF4C50755D845D29574731 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				7E6DAEB8370FF45335042C16 /* [CP] Embed Pods Frameworks */,
-				1B1D0042F1C1865331FA0F58 /* [CP] Copy Pods Resources */,
+				98090BFB9798D74E8C4D2AC3 /* [CP] Embed Pods Frameworks */,
+				BEFA1F9671FF9B5B363ED2EB /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -221,44 +179,21 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Swift" */;
 			buildPhases = (
-				01A90C7915E9C6C0CA4B3FA3 /* [CP] Check Pods Manifest.lock */,
+				212E798879DA97703366C5F3 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				6424727C683D9A002F5BEA12 /* [CP] Embed Pods Frameworks */,
-				186296AAF27BAFD9D9752AD2 /* [CP] Copy Pods Resources */,
-				CAC0BA6C6CB4BC372D54EFB3 /* [CP-User] [RNFB] Core Configuration */,
+				ED19F21A638167A77756749C /* [CP] Embed Pods Frameworks */,
+				6CF050136B73376469FF6A4C /* [CP] Copy Pods Resources */,
+				9D21406E2F30B19799E8643E /* [CP-User] [RNFB] Core Configuration */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = Swift;
-			packageProductDependencies = (
-				38F05E7D2A54DE32003B1A92 /* FirebaseAnalytics */,
-				38F05E7F2A54DE32003B1A92 /* FirebaseAnalyticsOnDeviceConversion */,
-				38F05E812A54DE32003B1A92 /* FirebaseAnalyticsSwift */,
-				38F05E832A54DE32003B1A92 /* FirebaseAppCheck */,
-				38F05E852A54DE32003B1A92 /* FirebaseAppDistribution-Beta */,
-				38F05E872A54DE32003B1A92 /* FirebaseAuth */,
-				38F05E892A54DE32003B1A92 /* FirebaseCrashlytics */,
-				38F05E8B2A54DE32003B1A92 /* FirebaseDatabase */,
-				38F05E8D2A54DE32003B1A92 /* FirebaseDatabaseSwift */,
-				38F05E8F2A54DE32003B1A92 /* FirebaseDynamicLinks */,
-				38F05E912A54DE32003B1A92 /* FirebaseFirestore */,
-				38F05E932A54DE32003B1A92 /* FirebaseFirestoreSwift */,
-				38F05E952A54DE32003B1A92 /* FirebaseFunctions */,
-				38F05E972A54DE32003B1A92 /* FirebaseInAppMessaging-Beta */,
-				38F05E992A54DE32003B1A92 /* FirebaseInAppMessagingSwift-Beta */,
-				38F05E9B2A54DE32003B1A92 /* FirebaseInstallations */,
-				38F05E9D2A54DE32003B1A92 /* FirebaseMessaging */,
-				38F05E9F2A54DE32003B1A92 /* FirebasePerformance */,
-				38F05EA12A54DE32003B1A92 /* FirebaseRemoteConfig */,
-				38F05EA32A54DE32003B1A92 /* FirebaseRemoteConfigSwift */,
-				38F05EA52A54DE32003B1A92 /* FirebaseStorage */,
-			);
 			productName = Swift;
 			productReference = 13B07F961A680F5B00A75B9A /* Swift.app */;
 			productType = "com.apple.product-type.application";
@@ -289,9 +224,6 @@
 				Base,
 			);
 			mainGroup = 83CBB9F61A601CBA00E9B192;
-			packageReferences = (
-				38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
-			);
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -339,80 +271,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		01A90C7915E9C6C0CA4B3FA3 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Swift-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		186296AAF27BAFD9D9752AD2 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		1B1D0042F1C1865331FA0F58 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6424727C683D9A002F5BEA12 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6D6E1097E004DDE42056DF0E /* [CP] Check Pods Manifest.lock */ = {
+		06BF4C50755D845D29574731 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -434,7 +293,46 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		7E6DAEB8370FF45335042C16 /* [CP] Embed Pods Frameworks */ = {
+		212E798879DA97703366C5F3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Swift-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6CF050136B73376469FF6A4C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		98090BFB9798D74E8C4D2AC3 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -451,7 +349,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CAC0BA6C6CB4BC372D54EFB3 /* [CP-User] [RNFB] Core Configuration */ = {
+		9D21406E2F30B19799E8643E /* [CP-User] [RNFB] Core Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -463,6 +361,40 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "#!/usr/bin/env bash\n#\n# Copyright (c) 2016-present Invertase Limited & Contributors\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this library except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#   http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\nset -e\n\n_MAX_LOOKUPS=2;\n_SEARCH_RESULT=''\n_RN_ROOT_EXISTS=''\n_CURRENT_LOOKUPS=1\n_JSON_ROOT=\"'react-native'\"\n_JSON_FILE_NAME='firebase.json'\n_JSON_OUTPUT_BASE64='e30=' # { }\n_CURRENT_SEARCH_DIR=${PROJECT_DIR}\n_PLIST_BUDDY=/usr/libexec/PlistBuddy\n_TARGET_PLIST=\"${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}\"\n_DSYM_PLIST=\"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist\"\n\n# plist arrays\n_PLIST_ENTRY_KEYS=()\n_PLIST_ENTRY_TYPES=()\n_PLIST_ENTRY_VALUES=()\n\nfunction setPlistValue {\n  echo \"info:      setting plist entry '$1' of type '$2' in file '$4'\"\n  ${_PLIST_BUDDY} -c \"Add :$1 $2 '$3'\" $4 || echo \"info:      '$1' already exists\"\n}\n\nfunction getFirebaseJsonKeyValue () {\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$1'); puts output[$_JSON_ROOT]['$2']\"\n  else\n    echo \"\"\n  fi;\n}\n\nfunction jsonBoolToYesNo () {\n  if [[ $1 == \"false\" ]]; then\n    echo \"NO\"\n  elif [[ $1 == \"true\" ]]; then\n    echo \"YES\"\n  else echo \"NO\"\n  fi\n}\n\necho \"info: -> RNFB build script started\"\necho \"info: 1) Locating ${_JSON_FILE_NAME} file:\"\n\nif [[ -z ${_CURRENT_SEARCH_DIR} ]]; then\n  _CURRENT_SEARCH_DIR=$(pwd)\nfi;\n\nwhile true; do\n  _CURRENT_SEARCH_DIR=$(dirname \"$_CURRENT_SEARCH_DIR\")\n  if [[ \"$_CURRENT_SEARCH_DIR\" == \"/\" ]] || [[ ${_CURRENT_LOOKUPS} -gt ${_MAX_LOOKUPS} ]]; then break; fi;\n  echo \"info:      ($_CURRENT_LOOKUPS of $_MAX_LOOKUPS) Searching in '$_CURRENT_SEARCH_DIR' for a ${_JSON_FILE_NAME} file.\"\n  _SEARCH_RESULT=$(find \"$_CURRENT_SEARCH_DIR\" -maxdepth 2 -name ${_JSON_FILE_NAME} -print | /usr/bin/head -n 1)\n  if [[ ${_SEARCH_RESULT} ]]; then\n    echo \"info:      ${_JSON_FILE_NAME} found at $_SEARCH_RESULT\"\n    break;\n  fi;\n  _CURRENT_LOOKUPS=$((_CURRENT_LOOKUPS+1))\ndone\n\nif [[ ${_SEARCH_RESULT} ]]; then\n  _JSON_OUTPUT_RAW=$(cat \"${_SEARCH_RESULT}\")\n  _RN_ROOT_EXISTS=$(ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$_JSON_OUTPUT_RAW'); puts output[$_JSON_ROOT]\" || echo '')\n\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    if ! python3 --version >/dev/null 2>&1; then echo \"python3 not found, firebase.json file processing error.\" && exit 1; fi\n    _JSON_OUTPUT_BASE64=$(python3 -c 'import json,sys,base64;print(base64.b64encode(bytes(json.dumps(json.loads(open('\"'${_SEARCH_RESULT}'\"', '\"'rb'\"').read())['${_JSON_ROOT}']), '\"'utf-8'\"')).decode())' || echo \"e30=\")\n  fi\n\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n\n  # config.app_data_collection_default_enabled\n  _APP_DATA_COLLECTION_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_data_collection_default_enabled\")\n  if [[ $_APP_DATA_COLLECTION_ENABLED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseDataCollectionDefaultEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_DATA_COLLECTION_ENABLED\")\")\n  fi\n\n  # config.analytics_auto_collection_enabled\n  _ANALYTICS_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_auto_collection_enabled\")\n  if [[ $_ANALYTICS_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_COLLECTION\")\")\n  fi\n\n  # config.analytics_collection_deactivated\n  _ANALYTICS_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_collection_deactivated\")\n  if [[ $_ANALYTICS_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_DEACTIVATED\")\")\n  fi\n\n  # config.analytics_idfv_collection_enabled\n  _ANALYTICS_IDFV_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_idfv_collection_enabled\")\n  if [[ $_ANALYTICS_IDFV_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_IDFV_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_IDFV_COLLECTION\")\")\n  fi\n\n  # config.analytics_default_allow_ad_personalization_signals\n  _ANALYTICS_PERSONALIZATION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_ad_personalization_signals\")\n  if [[ $_ANALYTICS_PERSONALIZATION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_AD_PERSONALIZATION_SIGNALS\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_PERSONALIZATION\")\")\n  fi\n\n  # config.analytics_registration_with_ad_network_enabled\n  _ANALYTICS_REGISTRATION_WITH_AD_NETWORK=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_registration_with_ad_network_enabled\")\n  if [[ $_ANALYTICS_REGISTRATION_WITH_AD_NETWORK ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_REGISTRATION_WITH_AD_NETWORK_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_REGISTRATION_WITH_AD_NETWORK\")\")\n  fi\n\n  # config.google_analytics_automatic_screen_reporting_enabled\n  _ANALYTICS_AUTO_SCREEN_REPORTING=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_automatic_screen_reporting_enabled\")\n  if [[ $_ANALYTICS_AUTO_SCREEN_REPORTING ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAutomaticScreenReportingEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_SCREEN_REPORTING\")\")\n  fi\n\n  # config.perf_auto_collection_enabled\n  _PERF_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_auto_collection_enabled\")\n  if [[ $_PERF_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_enabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_AUTO_COLLECTION\")\")\n  fi\n\n  # config.perf_collection_deactivated\n  _PERF_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_collection_deactivated\")\n  if [[ $_PERF_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_deactivated\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_DEACTIVATED\")\")\n  fi\n\n  # config.messaging_auto_init_enabled\n  _MESSAGING_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"messaging_auto_init_enabled\")\n  if [[ $_MESSAGING_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseMessagingAutoInitEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_MESSAGING_AUTO_INIT\")\")\n  fi\n\n  # config.in_app_messaging_auto_colllection_enabled\n  _FIAM_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"in_app_messaging_auto_collection_enabled\")\n  if [[ $_FIAM_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseInAppMessagingAutomaticDataCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_FIAM_AUTO_INIT\")\")\n  fi\n\n  # config.app_check_token_auto_refresh\n  _APP_CHECK_TOKEN_AUTO_REFRESH=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_check_token_auto_refresh\")\n  if [[ $_APP_CHECK_TOKEN_AUTO_REFRESH ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAppCheckTokenAutoRefreshEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_CHECK_TOKEN_AUTO_REFRESH\")\")\n  fi\n\n  # config.crashlytics_disable_auto_disabler - undocumented for now - mainly for debugging, document if becomes useful\n  _CRASHLYTICS_AUTO_DISABLE_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"crashlytics_disable_auto_disabler\")\n  if [[ $_CRASHLYTICS_AUTO_DISABLE_ENABLED == \"true\" ]]; then\n    echo \"Disabled Crashlytics auto disabler.\" # do nothing\n  else\n    _PLIST_ENTRY_KEYS+=(\"FirebaseCrashlyticsCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"NO\")\n  fi\nelse\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n  echo \"warning:   A firebase.json file was not found, whilst this file is optional it is recommended to include it to configure firebase services in React Native Firebase.\"\nfi;\n\necho \"info: 2) Injecting Info.plist entries: \"\n\n# Log out the keys we're adding\nfor i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n  echo \"    ->  $i) ${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\"\ndone\n\nfor plist in \"${_TARGET_PLIST}\" \"${_DSYM_PLIST}\" ; do\n  if [[ -f \"${plist}\" ]]; then\n\n    # paths with spaces break the call to setPlistValue. temporarily modify\n    # the shell internal field separator variable (IFS), which normally\n    # includes spaces, to consist only of line breaks\n    oldifs=$IFS\n    IFS=\"\n\"\n\n    for i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n      setPlistValue \"${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\" \"${plist}\"\n    done\n\n    # restore the original internal field separator value\n    IFS=$oldifs\n  else\n    echo \"warning:   A Info.plist build output file was not found (${plist})\"\n  fi\ndone\n\necho \"info: <- RNFB build script finished\"\n";
+		};
+		BEFA1F9671FF9B5B363ED2EB /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift-SwiftTests/Pods-Swift-SwiftTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ED19F21A638167A77756749C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Swift/Pods-Swift-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -516,7 +448,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F09BF57920B1817C4567B05A /* Pods-Swift-SwiftTests.debug.xcconfig */;
+			baseConfigurationReference = 7D3991CE95EB962ABF9DBD29 /* Pods-Swift-SwiftTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -543,7 +475,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6695DACCB609258078EAC5B1 /* Pods-Swift-SwiftTests.release.xcconfig */;
+			baseConfigurationReference = A6835D517879AA80CD5B348D /* Pods-Swift-SwiftTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -567,7 +499,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C9E441AD1FE7E5CC12AAE4E4 /* Pods-Swift.debug.xcconfig */;
+			baseConfigurationReference = C5F58FA7DB7A0F5A63B1A5E3 /* Pods-Swift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -597,7 +529,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E097503C98F60E6B8B14D6FD /* Pods-Swift.release.xcconfig */;
+			baseConfigurationReference = BB10DC67258001800BCD9584 /* Pods-Swift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -809,125 +741,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 9.0.0;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		38F05E7D2A54DE32003B1A92 /* FirebaseAnalytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalytics;
-		};
-		38F05E7F2A54DE32003B1A92 /* FirebaseAnalyticsOnDeviceConversion */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalyticsOnDeviceConversion;
-		};
-		38F05E812A54DE32003B1A92 /* FirebaseAnalyticsSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAnalyticsSwift;
-		};
-		38F05E832A54DE32003B1A92 /* FirebaseAppCheck */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAppCheck;
-		};
-		38F05E852A54DE32003B1A92 /* FirebaseAppDistribution-Beta */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseAppDistribution-Beta";
-		};
-		38F05E872A54DE32003B1A92 /* FirebaseAuth */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseAuth;
-		};
-		38F05E892A54DE32003B1A92 /* FirebaseCrashlytics */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseCrashlytics;
-		};
-		38F05E8B2A54DE32003B1A92 /* FirebaseDatabase */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseDatabase;
-		};
-		38F05E8D2A54DE32003B1A92 /* FirebaseDatabaseSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseDatabaseSwift;
-		};
-		38F05E8F2A54DE32003B1A92 /* FirebaseDynamicLinks */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseDynamicLinks;
-		};
-		38F05E912A54DE32003B1A92 /* FirebaseFirestore */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFirestore;
-		};
-		38F05E932A54DE32003B1A92 /* FirebaseFirestoreSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFirestoreSwift;
-		};
-		38F05E952A54DE32003B1A92 /* FirebaseFunctions */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFunctions;
-		};
-		38F05E972A54DE32003B1A92 /* FirebaseInAppMessaging-Beta */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseInAppMessaging-Beta";
-		};
-		38F05E992A54DE32003B1A92 /* FirebaseInAppMessagingSwift-Beta */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = "FirebaseInAppMessagingSwift-Beta";
-		};
-		38F05E9B2A54DE32003B1A92 /* FirebaseInstallations */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseInstallations;
-		};
-		38F05E9D2A54DE32003B1A92 /* FirebaseMessaging */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseMessaging;
-		};
-		38F05E9F2A54DE32003B1A92 /* FirebasePerformance */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebasePerformance;
-		};
-		38F05EA12A54DE32003B1A92 /* FirebaseRemoteConfig */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseRemoteConfig;
-		};
-		38F05EA32A54DE32003B1A92 /* FirebaseRemoteConfigSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseRemoteConfigSwift;
-		};
-		38F05EA52A54DE32003B1A92 /* FirebaseStorage */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 38F05E7C2A54DE32003B1A92 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseStorage;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
 }
