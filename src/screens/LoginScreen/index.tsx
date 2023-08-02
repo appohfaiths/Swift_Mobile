@@ -18,7 +18,7 @@ const LoginScreen: FC<IProps> = ({navigation}) => {
   const [showErrorAlert, setShowErrorAlert] = useState(false);
 
   const onLoginPress = () => {
-    navigation.navigate('LoginScreen');
+    navigation.navigate('HomeScreen');
   };
 
   const handleEmailChange = e => {
