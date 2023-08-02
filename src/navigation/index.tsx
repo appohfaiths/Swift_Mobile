@@ -3,16 +3,14 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
 import {
-  WelcomeScreen,
+  SignupScreen,
   AccountVerificationScreen,
   AccountVerifiedScreen,
   HomeScreen,
   LoginScreen,
-  SignupScreen,
 } from '../screens';
 
 export type StackParamList = {
-  WelcomeScreen: undefined;
   AccountVerificationScreen: undefined;
   AccountVerifiedScreen: undefined;
   HomeScreen: undefined;
@@ -26,9 +24,10 @@ export default function Screens() {
   return (
     <NavigationContainer>
       <Stack.Navigator
-        initialRouteName="WelcomeScreen"
+        initialRouteName="SignupScreen"
         screenOptions={{headerShown: false}}>
         <Stack.Screen name="SignupScreen" component={SignupScreen} />
+
         <Stack.Screen name="LoginScreen" component={LoginScreen} />
         <Stack.Screen
           name="AccountVerificationScreen"
@@ -39,7 +38,6 @@ export default function Screens() {
           component={AccountVerifiedScreen}
         />
 
-        <Stack.Screen name="WelcomeScreen" component={WelcomeScreen} />
         <Stack.Screen name="HomeScreen" component={HomeScreen} />
       </Stack.Navigator>
     </NavigationContainer>
